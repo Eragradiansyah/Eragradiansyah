@@ -1,4 +1,4 @@
-[![MasterHead]
+[![MasterHead](https://giffiles.alphacoders.com/150/15053.gif)
 
 
 <h2 align="center">Hi 👋, I'm Eragradiansyah H</h1>
