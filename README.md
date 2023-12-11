@@ -1,5 +1,8 @@
-[![MasterHead](https://giffiles.alphacoders.com/150/15053.gif)
+<center>
 
+![MasterHead](https://giffiles.alphacoders.com/150/15053.gif)
+
+</center>
 
 <h2 align="center">Hi 👋, I'm Eragradiansyah H</h1>
 <h4 align="center">Enthusiastic for be Quality Engineer eager to contribute to team success through hard work</h3>
