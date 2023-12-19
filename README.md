@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Eragradiansyah H</h1>
 <h4 align="center">Enthusiastic for be Quality Engineer eager to contribute to team success through hard work</h3>
-<img align="right" alt="Coding" width="300" height="350" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
+<img align="right" alt="Coding" width="350" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
 
 <p align="left"> <img src="komarev.com/ghpvc/?username=eragradiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="eragradiansyah" /> </p>
 
